@@ -16,12 +16,12 @@
 
 ## 👋 About Yaqoot Nawab
 
-I am **Yaqoot Nawab** — an IT Project Manager, AI Architect, and System Designer based in **Lahore, Pakistan**. I have been working in the technology industry since **2015**, across **9 companies** and **10 roles**, evolving from a Software Quality Assurance Engineer to a Senior QA Lead, then to IT Project and Product Manager, and now into AI Architecture and System Design.
+I am **Yaqoot Nawab**, an IT Project Manager, AI Architect, and System Designer based in **Lahore, Pakistan**. I have been working in the technology industry since **2015**, across **9 companies** and **10 roles**, evolving from a Software Quality Assurance Engineer to a Senior QA Lead, then to IT Project and Product Manager, and now into AI Architecture and System Design.
 
-I do not just manage timelines. I understand what is being built, why it matters, and how to design systems that are reliable, intelligent, and human-centred. My research in AI includes original mathematical frameworks published under the **YUIE (Yaqoot Unified Intelligence Equation)** framework — a theoretical model for sentient, empathic, and self-healing artificial intelligence.
+I do not just manage timelines. I understand what is being built, why it matters, and how to design systems that are reliable, intelligent, and human-centred. My research in AI includes original mathematical frameworks published under the **YUIE (Yaqoot Unified Intelligence Equation)** framework, a theoretical model for sentient, empathic, and self-healing artificial intelligence.
 
-> *"I believe the future of IT is not just faster delivery — it is smarter systems built by people who understand both the technology and the human being using it."*
-> — Yaqoot Nawab
+> *"I believe the future of IT is not just faster delivery, it is smarter systems built by people who understand both the technology and the human being using it."*
+>  Yaqoot Nawab
 
 ---
 
@@ -292,6 +292,8 @@ I am **open to work** and actively looking for opportunities as:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565c0,100:0d47a1&height=100&section=footer" width="100%"/>
 
-*Yaqoot Nawab — IT Project Manager | AI Architect | System Designer — Lahore, Pakistan*
+*Yaqoot Nawab
+IT Project Manager | AI Architect | System Designer
+Lahore, Pakistan*
 
 </div>
