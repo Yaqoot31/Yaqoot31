@@ -23,10 +23,10 @@ My career has been a deliberate progression: from Software Engineer, through Qua
 My research in AI includes an original theoretical framework, **YUIE (Yaqoot Unified Intelligence Equation)** a model exploring sentient, empathic, and self-healing artificial intelligence. In 2026 I published my first book, **"Leadership, Challenges & Project Success Stories"**, distilling nine years of real-world IT leadership into a comprehensive professional guide.
 
 > *"The best project managers are those who understand that their success is entirely dependent on the success of their team members. When you invest in people, the projects take care of themselves."*
-> — Yaqoot Nawab
+>  Yaqoot Nawab
 
 > *"I believe the future of IT is not just faster delivery, it is smarter systems built by people who understand both the technology and the human being using it."*
-> — Yaqoot Nawab
+>  Yaqoot Nawab
 
 ---
 
