@@ -16,11 +16,11 @@
 
 ## 👋 About Yaqoot Nawab
 
-I am **Yaqoot Nawab**, a Senior IT Project Manager, PMO Consultant, AI Architect, and System Designer with over **9 years** of hands-on experience delivering complex technology projects across **Healthcare, E-Commerce, FinTech, and Enterprise Digital Transformation**. I have successfully managed **25+ end-to-end projects**, leading cross-functional and remote teams across **five countries** — Germany, Japan, the United States, the United Kingdom, and China.
+I am **Yaqoot Nawab**, a Senior IT Project Manager, PMO Consultant, AI Architect, and System Designer with over **9 years** of hands-on experience delivering complex technology projects across **Healthcare, E-Commerce, FinTech, and Enterprise Digital Transformation**. I have successfully managed **25+ end-to-end projects**, leading cross-functional and remote teams across **five countries**  Germany, Japan, the United States, the United Kingdom, and China.
 
 My career has been a deliberate progression: from Software Engineer, through Quality Assurance and QA Leadership, into IT Project and Product Management, and now into AI Architecture and System Design. Having written code, designed test cases, led QA teams, coordinated projects, and now advised organisations on project management excellence, I bring a holistic perspective that bridges business objectives and technical execution.
 
-My research in AI includes an original theoretical framework, **YUIE (Yaqoot Unified Intelligence Equation)** — a model exploring sentient, empathic, and self-healing artificial intelligence. In 2026 I published my first book, **"Leadership, Challenges & Project Success Stories"**, distilling nine years of real-world IT leadership into a comprehensive professional guide.
+My research in AI includes an original theoretical framework, **YUIE (Yaqoot Unified Intelligence Equation)** a model exploring sentient, empathic, and self-healing artificial intelligence. In 2026 I published my first book, **"Leadership, Challenges & Project Success Stories"**, distilling nine years of real-world IT leadership into a comprehensive professional guide.
 
 > *"The best project managers are those who understand that their success is entirely dependent on the success of their team members. When you invest in people, the projects take care of themselves."*
 > — Yaqoot Nawab
