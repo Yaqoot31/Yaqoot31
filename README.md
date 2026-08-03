@@ -14,7 +14,7 @@
 
 ## 👤 Professional Summary
 
-**Yaqoot Nawab** is a Senior IT Project Manager, PMO Consultant, AI Architect, and System Designer with **9+ years** of experience delivering complex technology programs across **Healthcare, E-Commerce, FinTech, and Enterprise Digital Transformation**. Career built across **9 companies**, **25+ end-to-end projects**, and cross-functional teams spanning **5 countries** — Germany, Japan, the United States, the United Kingdom, and China.
+**Yaqoot Nawab** is a Senior IT Project Manager, PMO Consultant, AI Architect, and System Designer with **9+ years** of experience delivering complex technology programs across **Healthcare, E-Commerce, FinTech, and Enterprise Digital Transformation**. Career built across **9 companies**, **25+ end-to-end projects**, and cross-functional teams spanning **5 countries**: Germany, Japan, the United States, the United Kingdom, and China.
 
 Career trajectory: **Software Engineer → QA Engineer → QA Lead → IT/Product Project Manager → AI Architect**, combining a Software Engineering foundation with a Psychology degree to bring a people-first, systems-aware approach to project leadership.
 
@@ -25,13 +25,13 @@ Author of an original AI research framework, **YUIE (Yaqoot Unified Intelligence
 <td width="50%" valign="top">
 
 > *"The best project managers are those who understand that their success is entirely dependent on the success of their team members. When you invest in people, the projects take care of themselves."*
-> — Yaqoot Nawab
+> Yaqoot Nawab
 
 </td>
 <td width="50%" valign="top">
 
 > *"I believe the future of IT is not just faster delivery, it is smarter systems built by people who understand both the technology and the human being using it."*
-> — Yaqoot Nawab
+> Yaqoot Nawab
 
 </td>
 </tr>
@@ -47,10 +47,10 @@ Author of an original AI research framework, **YUIE (Yaqoot Unified Intelligence
 <tr>
 <td align="center" width="100%">
 
-### Certificate of Excellence — Global Technology Leadership 2026
+### Certificate of Excellence: Global Technology Leadership 2026
 
 **Award:** Best AI IT Project Manager
-**Ranking:** 2nd Place — Top 5 World's Best Tech Lead Experts
+**Ranking:** 2nd Place, Top 5 World's Best Tech Lead Experts
 **Issued by:** Johsaf J. Jonson, CEO, Phantom Air Tech Pvt (PAT Pvt)
 **Certificate No.:** PAT-2026-TL-002
 **Date of Issue:** 08 July 2026
@@ -79,7 +79,7 @@ Author of an original AI research framework, **YUIE (Yaqoot Unified Intelligence
 
 </div>
 
-A practical field guide distilling nine-plus years of real-world IT leadership — real project recoveries, stakeholder conflicts, budget and deadline crises, and the decisions that resolved them — paired with a hands-on playbook of frameworks, templates, checklists, and an interview-preparation appendix.
+A practical field guide distilling nine-plus years of real-world IT leadership. It covers real project recoveries, stakeholder conflicts, budget and deadline crises, and the decisions that resolved them, paired with a hands-on playbook of frameworks, templates, checklists, and an interview-preparation appendix.
 
 <details>
 <summary><strong>📑 Table of Contents</strong></summary>
@@ -99,7 +99,7 @@ A practical field guide distilling nine-plus years of real-world IT leadership �
 </details>
 
 > *"Project management is not merely about timelines, budgets, and deliverables. At its core, project management is about people..."*
-> — from the Introduction
+> From the Introduction
 
 📩 Book inquiries: **ranayaqoot@gmail.com**
 
@@ -137,7 +137,7 @@ A practical field guide distilling nine-plus years of real-world IT leadership �
 |---|---|---|:---:|
 | 🎓 Master's Degree | Computer Software Engineering | National College of Ireland | ✅ |
 | 🎓 Bachelor's Degree | Computer Software Engineering | Virtual University of Pakistan | ✅ |
-| 🎓 Bachelor's Degree | Psychology | — | ✅ |
+| 🎓 Bachelor's Degree | Psychology | N/A | ✅ |
 | 🎓 Diploma | Computer Software Engineering | National College of IT | ✅ |
 | 🎓 3-Year IT Diploma | Information Technology | Pakistan Institute of Skills and Competencies (PISC) | ✅ |
 
@@ -227,11 +227,11 @@ A practical field guide distilling nine-plus years of real-world IT leadership �
 
 ---
 
-## 🔬 Independent Research — YUIE Framework
+## 🔬 Independent Research: YUIE Framework
 
 <div align="center">
 
-**Seven Formulas of Sentient AI — YUIE (Yaqoot Unified Intelligence Equation)**
+**Seven Formulas of Sentient AI: YUIE (Yaqoot Unified Intelligence Equation)**
 *Yaqoot Nawab, 2025*
 
 | # | Component | Description |
@@ -260,7 +260,7 @@ A practical field guide distilling nine-plus years of real-world IT leadership �
 | Title | Category | Year |
 |---|---|:---:|
 | Leadership, Challenges & Project Success Stories (Book) | IT Leadership & Project Management | 2026 |
-| Seven Formulas of Sentient AI — YUIE Framework | AI Research, Theoretical Mathematics | 2025 |
+| Seven Formulas of Sentient AI: YUIE Framework | AI Research, Theoretical Mathematics | 2025 |
 | Claude AI and Jira Integration Guide for IT Project Managers | Technical Documentation | 2025 |
 | iOS 27 vs Android 17: The Honest Truth | Technology Analysis | 2026 |
 | The Psychology of Clients and IT Professionals | Leadership, Psychology in IT | 2026 |
@@ -272,8 +272,8 @@ A practical field guide distilling nine-plus years of real-world IT leadership �
 | Responsibilities of IT PM, Technical PM, Product Owner, and Product Manager | Role Clarity, Project Management | 2025 |
 | How AI Is Changing the Role of an IT Project Manager | AI in Project Management | 2024 |
 | How an IT Project Manager Solves Logical and Critical Problems | Leadership, Problem Solving | 2024 |
-| How Databases Work — Why Non-Coders Must Master Them | Technology Education | 2024 |
-| Copy, Paste, ChatGPT, Enter — Redefining Modern Work | AI Productivity | 2024 |
+| How Databases Work: Why Non-Coders Must Master Them | Technology Education | 2024 |
+| Copy, Paste, ChatGPT, Enter: Redefining Modern Work | AI Productivity | 2024 |
 | Striking a Balance: Practical World vs Theoretical Work in SQA | Quality Assurance | 2023 |
 
 ---
@@ -294,8 +294,8 @@ A practical field guide distilling nine-plus years of real-world IT leadership �
 
 ## 📌 Current Focus (2025 / 2026)
 
-- **Published:** *Leadership, Challenges & Project Success Stories* — 2026 Expanded Edition (150 pages, 37 chapters, 3 appendices)
-- **Recognition:** Best AI IT Project Manager, 2nd of Top 5 World's Best Tech Lead Experts — Phantom Air Tech Pvt, 08 July 2026
+- **Published:** *Leadership, Challenges & Project Success Stories*, 2026 Expanded Edition (150 pages, 37 chapters, 3 appendices)
+- **Recognition:** Best AI IT Project Manager, 2nd of Top 5 World's Best Tech Lead Experts, Phantom Air Tech Pvt, 08 July 2026
 - **Research:** YUIE framework implementation and validation; AI integration patterns for enterprise project management; agentic AI workflows for IT delivery automation
 - **Building:** Claude AI and Jira automation workflows; intelligent project management tooling; AI-assisted QA test generation systems
 - **Learning:** Advanced LLM fine-tuning and prompt engineering; multi-agent system architecture; formal verification methods for AI safety
@@ -333,6 +333,6 @@ A practical field guide distilling nine-plus years of real-world IT leadership �
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6CA8,50:0A2540,100:0A2540&height=100&section=footer" width="100%"/>
 
-*Yaqoot Nawab — IT Project Manager | AI Architect | Author | System Designer | Pakistan*
+*Yaqoot Nawab, IT Project Manager | AI Architect | Author | System Designer | Pakistan*
 
 </div>
