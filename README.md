@@ -6,7 +6,7 @@
 
 ![Award Winner](https://img.shields.io/badge/🏆%20AWARD-Best%20AI%20IT%20Project%20Manager%202026-C9A227?style=for-the-badge&labelColor=0A2540)
 ![Global Rank](https://img.shields.io/badge/GLOBAL%20RANK-%232%20of%20Top%205%20Worldwide-0A2540?style=for-the-badge&labelColor=1B6CA8)
-![Author](https://img.shields.io/badge/AUTHOR-Published%20Book%2C%202026-0A2540?style=for-the-badge&labelColor=1B6CA8)
+![Author](https://img.shields.io/badge/AUTHOR-2%20Published%20Books-0A2540?style=for-the-badge&labelColor=1B6CA8)
 
 </div>
 
@@ -18,20 +18,20 @@
 
 Career trajectory: **Software Engineer → QA Engineer → QA Lead → IT/Product Project Manager → AI Architect**, combining a Software Engineering foundation with a Psychology degree to bring a people-first, systems-aware approach to project leadership.
 
-Author of an original AI research framework, **YUIE (Yaqoot Unified Intelligence Equation)**, and of the 2026 published book **"Leadership, Challenges & Project Success Stories."**
+Author of two published books — ***Lead. Plan. Deliver.*** and ***Leadership, Challenges & Project Success Stories*** — and of an original AI research framework, **YUIE (Yaqoot Unified Intelligence Equation)**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 > *"The best project managers are those who understand that their success is entirely dependent on the success of their team members. When you invest in people, the projects take care of themselves."*
-> Yaqoot Nawab
+> — Yaqoot Nawab
 
 </td>
 <td width="50%" valign="top">
 
 > *"I believe the future of IT is not just faster delivery, it is smarter systems built by people who understand both the technology and the human being using it."*
-> Yaqoot Nawab
+> — Yaqoot Nawab
 
 </td>
 </tr>
@@ -69,20 +69,40 @@ Author of an original AI research framework, **YUIE (Yaqoot Unified Intelligence
 
 <div align="center">
 
-### "Leadership, Challenges & Project Success Stories"
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 📘 *Lead. Plan. Deliver.*
+
+![Available on Amazon](https://img.shields.io/badge/AVAILABLE%20ON-Amazon-FF9900?style=flat-square&logo=amazon&logoColor=white)
+![Year](https://img.shields.io/badge/PUBLISHED-2026-0A2540?style=flat-square&labelColor=1B6CA8)
+
+A concise, practitioner's guide to running technology delivery end-to-end — how experienced IT and technical project managers lead teams, plan with precision, and deliver outcomes that hold up under real-world pressure.
+
+**[📗 Get it on Amazon →](https://www.amazon.com/s?k=Lead.+Plan.+Deliver.+Yaqoot+Nawab)**
+*(replace with your book's direct Amazon listing link)*
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 📙 *Leadership, Challenges & Project Success Stories*
 **2026 Expanded Edition**
 
 ![Pages](https://img.shields.io/badge/PAGES-150-0A2540?style=flat-square&labelColor=1B6CA8)
 ![Chapters](https://img.shields.io/badge/CHAPTERS-37-0A2540?style=flat-square&labelColor=1B6CA8)
 ![Appendices](https://img.shields.io/badge/APPENDICES-3-0A2540?style=flat-square&labelColor=1B6CA8)
-![Year](https://img.shields.io/badge/PUBLISHED-2026-0A2540?style=flat-square&labelColor=1B6CA8)
+
+A practical field guide distilling nine-plus years of real-world IT leadership: project recoveries, stakeholder conflicts, budget and deadline crises, paired with a hands-on playbook of frameworks, templates, and an interview-preparation appendix.
+
+</td>
+</tr>
+</table>
 
 </div>
 
-A practical field guide distilling nine-plus years of real-world IT leadership. It covers real project recoveries, stakeholder conflicts, budget and deadline crises, and the decisions that resolved them, paired with a hands-on playbook of frameworks, templates, checklists, and an interview-preparation appendix.
-
 <details>
-<summary><strong>📑 Table of Contents</strong></summary>
+<summary><strong>📑 Table of Contents — Leadership, Challenges & Project Success Stories</strong></summary>
 <br>
 
 | Part | Focus | Chapters |
@@ -99,7 +119,7 @@ A practical field guide distilling nine-plus years of real-world IT leadership. 
 </details>
 
 > *"Project management is not merely about timelines, budgets, and deliverables. At its core, project management is about people..."*
-> From the Introduction
+> — From the Introduction
 
 📩 Book inquiries: **ranayaqoot@gmail.com**
 
@@ -259,6 +279,7 @@ A practical field guide distilling nine-plus years of real-world IT leadership. 
 
 | Title | Category | Year |
 |---|---|:---:|
+| Lead. Plan. Deliver. (Book) | IT Leadership & Project Delivery | 2026 |
 | Leadership, Challenges & Project Success Stories (Book) | IT Leadership & Project Management | 2026 |
 | Seven Formulas of Sentient AI: YUIE Framework | AI Research, Theoretical Mathematics | 2025 |
 | Claude AI and Jira Integration Guide for IT Project Managers | Technical Documentation | 2025 |
@@ -294,6 +315,7 @@ A practical field guide distilling nine-plus years of real-world IT leadership. 
 
 ## 📌 Current Focus (2025 / 2026)
 
+- **Published:** *Lead. Plan. Deliver.* — available now on Amazon
 - **Published:** *Leadership, Challenges & Project Success Stories*, 2026 Expanded Edition (150 pages, 37 chapters, 3 appendices)
 - **Recognition:** Best AI IT Project Manager, 2nd of Top 5 World's Best Tech Lead Experts, Phantom Air Tech Pvt, 08 July 2026
 - **Research:** YUIE framework implementation and validation; AI integration patterns for enterprise project management; agentic AI workflows for IT delivery automation
@@ -309,6 +331,7 @@ A practical field guide distilling nine-plus years of real-world IT leadership. 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Yaqoot%20Nawab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaqoot-nawab-3a781117b)
 [![Medium](https://img.shields.io/badge/MEDIUM-@yaqootnawab-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yaqootnawab)
 [![GitHub](https://img.shields.io/badge/GITHUB-Yaqoot31-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaqoot31)
+[![Amazon](https://img.shields.io/badge/AMAZON-Lead.%20Plan.%20Deliver.-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/s?k=Lead.+Plan.+Deliver.+Yaqoot+Nawab)
 [![Email](https://img.shields.io/badge/EMAIL-ranayaqoot@gmail.com-C9A227?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ranayaqoot@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-+92%20312%206406045-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923126406045)
 [![Freelancer](https://img.shields.io/badge/FREELANCER-yaqootnawab-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/yaqootnawab)
