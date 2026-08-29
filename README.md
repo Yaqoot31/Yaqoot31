@@ -25,13 +25,13 @@ Author of two published books, Lead. Plan. Deliver. and Leadership, Challenges a
 <td width="50%" valign="top">
 
 "The best project managers are those who understand that their success is entirely dependent on the success of their team members. When you invest in people, the projects take care of themselves."
-— Yaqoot Nawab
+Yaqoot Nawab
 
 </td>
 <td width="50%" valign="top">
 
 "I believe the future of IT is not just faster delivery, it is smarter systems built by people who understand both the technology and the human being using it."
-— Yaqoot Nawab
+Yaqoot Nawab
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ In recognition of outstanding leadership, technical excellence, and innovation i
 ## Published Work
 
 ### Lead. Plan. Deliver.
-*From Revelation to Modern Project Management — Faith, Knowledge, Science, Leadership, Systems, Technology and Human Experience*
+*From Revelation to Modern Project Management —> Faith, Knowledge, Science, Leadership, Systems, Technology and Human Experience*
 
 <div align="center">
 
@@ -82,10 +82,10 @@ In recognition of outstanding leadership, technical excellence, and innovation i
 A 211 page exploration of project management as an integrated discipline, drawing together revelation, science, history, and hands on practice into a single framework for responsible leadership in the modern world.
 
 <details>
-<summary><strong>Full Chapter Breakdown — 25 Parts, 94 Chapters</strong></summary>
+<summary><strong>Full Chapter Breakdown —> 25 Parts, 94 Chapters</strong></summary>
 <br>
 
-**Part I: The First Project — Human Civilization**
+**Part I: The First Project —> Human Civilization**
 - Chapter 1: Everything Begins With Purpose
 - Chapter 2: The Architecture of Responsibility
 - Chapter 3: Documentation as a Management System
@@ -206,7 +206,7 @@ A 211 page exploration of project management as an integrated discipline, drawin
 - Chapter 74: Performance Management
 - Chapter 75: Building Organizational Culture
 
-**Part XXIV: History as Management Laboratory — Detailed Case Studies**
+**Part XXIV: History as Management Laboratory —> Detailed Case Studies**
 - Chapter 76: The Pyramids of Egypt
 - Chapter 77: The Roman Road Network
 - Chapter 78: The House of Wisdom
@@ -264,7 +264,7 @@ A practical field guide distilling nine plus years of real world IT leadership: 
 </details>
 
 "Project management is not merely about timelines, budgets, and deliverables. At its core, project management is about people..."
-— From the Introduction
+From the Introduction
 
 Book inquiries: ranayaqoot@gmail.com
 
