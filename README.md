@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05010F,40:1A0B4D,70:7A00FF,100:00F0FF&height=260&section=header&text=YAQOOT%20NAWAB&fontSize=58&fontColor=00F0FF&fontAlignY=40&desc=%E2%96%B8%20NEURAL%20PROFILE%20ONLINE%20%E2%97%82%20YEAR%202050%20INTERFACE&descAlignY=62&descSize=16&descColor=FF2BD6&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05010F,40:1A0B4D,70:7A00FF,100:00F0FF&height=260&section=header&text=YAQOOT%20NAWAB&fontSize=58&fontColor=00F0FF&fontAlignY=40&desc=%E2%96%B8%20TECH%20LEAD%20%E2%97%82%20LINUX%20SPECIALIST%20%E2%97%82%20AI%20ARCHITECT%20%E2%96%B8&descAlignY=62&descSize=16&descColor=FF2BD6&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/Yaqoot31">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=SENIOR+IT+PROJECT+MANAGER;AI+ARCHITECT+%7C+SYSTEM+DESIGNER;QA+STRATEGIST+%7C+PMO+CONSULTANT;AUTHOR+OF+2+PUBLISHED+BOOKS;BUILDING+THE+SMARTER+SYSTEMS+OF+TOMORROW" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=SENIOR+IT+PROJECT+MANAGER;TECH+LEAD+%7C+LINUX+SPECIALIST;AI+ARCHITECT+%7C+SYSTEM+DESIGNER;QA+STRATEGIST+%7C+PMO+CONSULTANT;AUTHOR+OF+2+PUBLISHED+BOOKS;BUILDING+THE+SMARTER+SYSTEMS+OF+TOMORROW" alt="Typing animation"/>
 </a>
+
+<br>
+
+![Tech Lead](https://img.shields.io/badge/ROLE%20//-Tech%20Lead-00F0FF?style=flat-square&logo=githubactions&logoColor=00F0FF&labelColor=05010F)
+![Linux](https://img.shields.io/badge/ROLE%20//-Linux%20Specialist-FFB800?style=flat-square&logo=linux&logoColor=FFB800&labelColor=05010F)
+![AI](https://img.shields.io/badge/ROLE%20//-AI%20Architect-FF2BD6?style=flat-square&logo=openai&logoColor=FF2BD6&labelColor=05010F)
+![PM](https://img.shields.io/badge/ROLE%20//-Senior%20IT%20PM-7CFF00?style=flat-square&logo=jira&logoColor=7CFF00&labelColor=05010F)
 
 <br>
 
@@ -21,14 +28,15 @@
 ```
 STATUS ........ ONLINE
 IDENTITY ...... YAQOOT NAWAB
-CLASS ......... SENIOR IT PROJECT MANAGER / AI ARCHITECT / SYSTEM DESIGNER
+CLASS ......... SENIOR IT PROJECT MANAGER / TECH LEAD / AI ARCHITECT
+SPECIALTY ..... LINUX SYSTEMS / SYSTEM DESIGN / QA STRATEGY
 EXPERIENCE .... 9+ YEARS
 COMPANIES ..... 9
 PROJECTS ...... 25+ END TO END DELIVERIES
 NETWORK ....... GERMANY | JAPAN | UNITED STATES | UNITED KINGDOM | CHINA
 ```
 
-Yaqoot Nawab is a Senior IT Project Manager, PMO Consultant, AI Architect, and System Designer with 9+ years of experience delivering complex technology programs across Healthcare, E Commerce, FinTech, and Enterprise Digital Transformation. Career built across 9 companies, 25+ end to end projects, and cross functional teams spanning 5 countries: Germany, Japan, the United States, the United Kingdom, and China.
+Yaqoot Nawab is a Senior IT Project Manager, Tech Lead, Linux Specialist, PMO Consultant, AI Architect, and System Designer with 9+ years of experience delivering complex technology programs across Healthcare, E Commerce, FinTech, and Enterprise Digital Transformation. Career built across 9 companies, 25+ end to end projects, and cross functional teams spanning 5 countries: Germany, Japan, the United States, the United Kingdom, and China.
 
 **Evolution path:** Software Engineer ▸ QA Engineer ▸ QA Lead ▸ IT / Product Project Manager ▸ AI Architect. A Software Engineering foundation fused with a Psychology degree creates a people first, systems aware approach to project leadership.
 
@@ -38,7 +46,7 @@ Author of two published books, *Lead. Plan. Deliver.* and *Leadership, Challenge
 <tr>
 <td width="50%" valign="top">
 
-**[ TRANSMISSION 01 ]**
+### ◈ THE PEOPLE FIRST CODE ◈
 
 "The best project managers are those who understand that their success is entirely dependent on the success of their team members. When you invest in people, the projects take care of themselves."
 
@@ -47,7 +55,7 @@ Yaqoot Nawab
 </td>
 <td width="50%" valign="top">
 
-**[ TRANSMISSION 02 ]**
+### ◈ THE SMARTER SYSTEMS VISION ◈
 
 "I believe the future of IT is not just faster delivery, it is smarter systems built by people who understand both the technology and the human being using it."
 
@@ -352,6 +360,18 @@ A practical field guide distilling nine plus years of real world IT leadership: 
 ![Stakeholder Mgmt](https://img.shields.io/badge/Stakeholder%20Management-Expert-FF2BD6?style=for-the-badge&labelColor=05010F)
 ![PMO](https://img.shields.io/badge/PMO%20Consulting-Advanced-FF2BD6?style=for-the-badge&labelColor=05010F)
 
+**[ TECH LEADERSHIP ]**
+
+![Tech Lead](https://img.shields.io/badge/Technical%20Leadership-Expert-00F0FF?style=for-the-badge&labelColor=05010F)
+![Code Review](https://img.shields.io/badge/Code%20Review%20and%20Architecture-Advanced-00F0FF?style=for-the-badge&labelColor=05010F)
+![Mentoring](https://img.shields.io/badge/Developer%20Mentoring-Expert-00F0FF?style=for-the-badge&labelColor=05010F)
+
+**[ LINUX AND INFRASTRUCTURE ]**
+
+![Linux](https://img.shields.io/badge/Linux%20Administration-Specialist-FFB800?style=for-the-badge&logo=linux&logoColor=white&labelColor=05010F)
+![Shell](https://img.shields.io/badge/Shell%20Scripting-Advanced-FFB800?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=05010F)
+![Servers](https://img.shields.io/badge/Server%20and%20Deployment%20Management-Advanced-FFB800?style=for-the-badge&labelColor=05010F)
+
 **[ AI ARCHITECTURE AND SYSTEM DESIGN ]**
 
 ![AI Architecture](https://img.shields.io/badge/AI%20Architecture-Advanced-00F0FF?style=for-the-badge&labelColor=05010F)
@@ -403,6 +423,14 @@ A practical field guide distilling nine plus years of real world IT leadership: 
 ![Playwright](https://img.shields.io/badge/Playwright-0D0221?style=flat-square&logo=playwright&logoColor=2ead33)
 ![Selenium](https://img.shields.io/badge/Selenium-0D0221?style=flat-square&logo=selenium&logoColor=43b02a)
 ![Postman](https://img.shields.io/badge/Postman-0D0221?style=flat-square&logo=postman&logoColor=ff6c37)
+
+**[ LINUX AND SYSTEMS ]**
+
+![Linux](https://img.shields.io/badge/Linux-0D0221?style=flat-square&logo=linux&logoColor=FFB800)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D0221?style=flat-square&logo=ubuntu&logoColor=e95420)
+![Bash](https://img.shields.io/badge/Bash-0D0221?style=flat-square&logo=gnubash&logoColor=4eaa25)
+![Docker](https://img.shields.io/badge/Docker-0D0221?style=flat-square&logo=docker&logoColor=2496ed)
+![Nginx](https://img.shields.io/badge/Nginx-0D0221?style=flat-square&logo=nginx&logoColor=009639)
 
 **[ PROJECT AND COLLABORATION TOOLS ]**
 
@@ -520,7 +548,7 @@ A theoretical framework exploring machine consciousness and empathy, drawing on 
 
 ### `[ OPEN TO ]`
 
-**IT Project Manager | AI Architect | Technical Program Manager | System Designer | PMO Consultant | Speaking Engagements**
+**IT Project Manager | Tech Lead | Linux Specialist | AI Architect | Technical Program Manager | System Designer | PMO Consultant | Speaking Engagements**
 
 Remote, Hybrid, or On site in Pakistan. Open to relocation for the right opportunity.
 
@@ -532,7 +560,7 @@ Remote, Hybrid, or On site in Pakistan. Open to relocation for the right opportu
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7A00FF,100:05010F&height=110&section=footer" width="100%"/>
 
-**YAQOOT NAWAB // IT PROJECT MANAGER | AI ARCHITECT | AUTHOR | SYSTEM DESIGNER | PAKISTAN**
+**YAQOOT NAWAB // IT PROJECT MANAGER | TECH LEAD | LINUX SPECIALIST | AI ARCHITECT | AUTHOR | PAKISTAN**
 
 `[ END OF TRANSMISSION ]`
 
