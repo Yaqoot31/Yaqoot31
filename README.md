@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05010F,40:1A0B4D,70:7A00FF,100:00F0FF&height=260&section=header&text=YAQOOT%20NAWAB&fontSize=58&fontColor=00F0FF&fontAlignY=40&desc=%E2%96%B8%20TECH%20LEAD%20%E2%97%82%20LINUX%20SPECIALIST%20%E2%97%82%20AI%20ARCHITECT%20%E2%96%B8&descAlignY=62&descSize=16&descColor=FF2BD6&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05010F,30:1A0B4D,60:7A00FF,85:FF2BD6,100:00F0FF&height=290&stroke=00F0FF&strokeWidth=2&section=header&text=YAQOOT%20NAWAB&fontSize=58&fontColor=00F0FF&fontAlignY=40&desc=%E2%96%B8%205D%20VISION%20PROFILE%20%E2%97%82%20TECH%20LEAD%20%E2%97%82%20LINUX%20SPECIALIST%20%E2%97%82%20AI%20ARCHITECT%20%E2%96%B8&descAlignY=62&descSize=16&descColor=FF2BD6&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/Yaqoot31">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=SENIOR+IT+PROJECT+MANAGER;TECH+LEAD+%7C+LINUX+SPECIALIST;AI+ARCHITECT+%7C+SYSTEM+DESIGNER;QA+STRATEGIST+%7C+PMO+CONSULTANT;AUTHOR+OF+2+PUBLISHED+BOOKS;BUILDING+THE+SMARTER+SYSTEMS+OF+TOMORROW" alt="Typing animation"/>
@@ -15,6 +15,54 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7A00FF,100:FF2BD6&height=3&section=header" width="80%"/>
+
+### ◈ ENTER THE FIVE DIMENSIONS ◈
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+**D1**
+![Identity](https://img.shields.io/badge/IDENTITY-Who%20I%20Am-FF2BD6?style=for-the-badge&labelColor=05010F)
+*Profile and Recognition*
+
+</td>
+<td align="center" width="20%">
+
+**D2**
+![Capability](https://img.shields.io/badge/CAPABILITY-What%20I%20Master-00F0FF?style=for-the-badge&labelColor=05010F)
+*Skills, Education, Stack*
+
+</td>
+<td align="center" width="20%">
+
+**D3**
+![Creation](https://img.shields.io/badge/CREATION-What%20I%20Build-7CFF00?style=for-the-badge&labelColor=05010F)
+*Books and Articles*
+
+</td>
+<td align="center" width="20%">
+
+**D4**
+![Time](https://img.shields.io/badge/TIME-How%20I%20Evolved-FFB800?style=for-the-badge&labelColor=05010F)
+*Career and Telemetry*
+
+</td>
+<td align="center" width="20%">
+
+**D5**
+![Vision](https://img.shields.io/badge/VISION-Where%20I%20Am%20Going-A66BFF?style=for-the-badge&labelColor=05010F)
+*Research, Missions, Contact*
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2BD6,50:7A00FF,100:00F0FF&height=3&section=header" width="80%"/>
+
+<br>
+
 ![Award](https://img.shields.io/badge/AWARD%20//-Best%20AI%20IT%20Project%20Manager%202026-FF2BD6?style=for-the-badge&labelColor=05010F)
 ![Rank](https://img.shields.io/badge/GLOBAL%20RANK%20//-2%20of%20Top%205%20Worldwide-00F0FF?style=for-the-badge&labelColor=05010F)
 ![Author](https://img.shields.io/badge/AUTHOR%20//-2%20Published%20Books-7CFF00?style=for-the-badge&labelColor=05010F)
@@ -23,7 +71,7 @@
 
 ---
 
-## `>> SYSTEM BOOT :: PROFESSIONAL SUMMARY`
+## `D1 ▸ IDENTITY :: PROFESSIONAL SUMMARY`
 
 ```
 STATUS ........ ONLINE
@@ -67,7 +115,7 @@ Yaqoot Nawab
 
 ---
 
-## `>> VERIFIED CREDENTIAL :: INTERNATIONAL RECOGNITION`
+## `D1 ▸ IDENTITY :: INTERNATIONAL RECOGNITION`
 
 <div align="center">
 
@@ -94,7 +142,7 @@ Yaqoot Nawab
 
 ---
 
-## `>> DATA ARCHIVE :: PUBLISHED WORK`
+## `D3 ▸ CREATION :: PUBLISHED WORK`
 
 ### ◤ VOLUME 01 ◢ Lead. Plan. Deliver.
 *From Revelation to Modern Project Management ▸ Faith, Knowledge, Science, Leadership, Systems, Technology and Human Experience*
@@ -299,7 +347,7 @@ A practical field guide distilling nine plus years of real world IT leadership: 
 
 ---
 
-## `>> TIMELINE.LOG :: CAREER TRAJECTORY`
+## `D4 ▸ TIME :: CAREER TRAJECTORY`
 
 <div align="center">
 
@@ -325,7 +373,7 @@ A practical field guide distilling nine plus years of real world IT leadership: 
 
 ---
 
-## `>> KNOWLEDGE CORE :: EDUCATION AND CERTIFICATIONS`
+## `D2 ▸ CAPABILITY :: EDUCATION AND CERTIFICATIONS`
 
 | Degree | Field | Institution | Status |
 |---|---|---|:---:|
@@ -348,7 +396,7 @@ A practical field guide distilling nine plus years of real world IT leadership: 
 
 ---
 
-## `>> SKILL MATRIX :: CORE EXPERTISE`
+## `D2 ▸ CAPABILITY :: CORE EXPERTISE`
 
 <div align="center">
 
@@ -394,7 +442,7 @@ A practical field guide distilling nine plus years of real world IT leadership: 
 
 ---
 
-## `>> TECH STACK :: LOADED MODULES`
+## `D2 ▸ CAPABILITY :: TECHNOLOGY STACK`
 
 <div align="center">
 
@@ -450,7 +498,7 @@ A practical field guide distilling nine plus years of real world IT leadership: 
 
 ---
 
-## `>> CLASSIFIED LAB :: INDEPENDENT RESEARCH ▸ YUIE FRAMEWORK`
+## `D5 ▸ VISION :: INDEPENDENT RESEARCH ▸ YUIE FRAMEWORK`
 
 <div align="center">
 
@@ -478,7 +526,7 @@ A theoretical framework exploring machine consciousness and empathy, drawing on 
 
 ---
 
-## `>> PUBLICATION LEDGER :: RESEARCH AND ARTICLES`
+## `D3 ▸ CREATION :: RESEARCH AND ARTICLES`
 
 | Title | Category | Year |
 |---|---|:---:|
@@ -502,7 +550,7 @@ A theoretical framework exploring machine consciousness and empathy, drawing on 
 
 ---
 
-## `>> TELEMETRY :: GITHUB ANALYTICS`
+## `D4 ▸ TIME :: GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -512,11 +560,15 @@ A theoretical framework exploring machine consciousness and empathy, drawing on 
 
 ![Yaqoot Nawab Trophies](https://github-profile-trophy.vercel.app/?username=Yaqoot31&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7)
 
+![Streak Stats](https://streak-stats.demolab.com?user=Yaqoot31&background=05010F&ring=FF2BD6&fire=FFB800&currStreakLabel=00F0FF&sideLabels=C9D1FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1FF&stroke=7A00FF&border=7A00FF)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yaqoot31&bg_color=05010F&color=00F0FF&line=FF2BD6&point=7CFF00&area=true&area_color=7A00FF&hide_border=true)
+
 </div>
 
 ---
 
-## `>> ACTIVE MISSIONS :: CURRENT FOCUS (2025 / 2026)`
+## `D5 ▸ VISION :: CURRENT FOCUS (2025 / 2026)`
 
 ```
 [PUBLISHED]  Lead. Plan. Deliver. ........ 211 pages | 25 parts | 94 chapters | on Amazon
@@ -529,7 +581,7 @@ A theoretical framework exploring machine consciousness and empathy, drawing on 
 
 ---
 
-## `>> OPEN CHANNELS :: CONNECT`
+## `D5 ▸ VISION :: CONNECT`
 
 <div align="center">
 
@@ -562,6 +614,6 @@ Remote, Hybrid, or On site in Pakistan. Open to relocation for the right opportu
 
 **YAQOOT NAWAB // IT PROJECT MANAGER | TECH LEAD | LINUX SPECIALIST | AI ARCHITECT | AUTHOR | PAKISTAN**
 
-`[ END OF TRANSMISSION ]`
+`◈ IDENTITY ◈ CAPABILITY ◈ CREATION ◈ TIME ◈ VISION ◈`
 
 </div>
