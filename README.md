@@ -1,36 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B1E3F,50:1D3557,100:1B5E20&height=220&section=header&text=YAQOOT%20NAWAB&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20IT%20Project%20Manager%20%7C%20AI%20Architect%20%7C%20Author%20%7C%20QA%20Strategist&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05010F,40:1A0B4D,70:7A00FF,100:00F0FF&height=260&section=header&text=YAQOOT%20NAWAB&fontSize=58&fontColor=00F0FF&fontAlignY=40&desc=%E2%96%B8%20NEURAL%20PROFILE%20ONLINE%20%E2%97%82%20YEAR%202050%20INTERFACE&descAlignY=62&descSize=16&descColor=FF2BD6&animation=twinkling" width="100%"/>
+
+<a href="https://github.com/Yaqoot31">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=SENIOR+IT+PROJECT+MANAGER;AI+ARCHITECT+%7C+SYSTEM+DESIGNER;QA+STRATEGIST+%7C+PMO+CONSULTANT;AUTHOR+OF+2+PUBLISHED+BOOKS;BUILDING+THE+SMARTER+SYSTEMS+OF+TOMORROW" alt="Typing animation"/>
+</a>
 
 <br>
 
-![Award Winner](https://img.shields.io/badge/AWARD-Best%20AI%20IT%20Project%20Manager%202026-8B1E3F?style=for-the-badge&labelColor=1D3557)
-![Global Rank](https://img.shields.io/badge/GLOBAL%20RANK-2%20of%20Top%205%20Worldwide-1D3557?style=for-the-badge&labelColor=1B5E20)
-![Author](https://img.shields.io/badge/AUTHOR-2%20Published%20Books-1B5E20?style=for-the-badge&labelColor=8B1E3F)
+![Award](https://img.shields.io/badge/AWARD%20//-Best%20AI%20IT%20Project%20Manager%202026-FF2BD6?style=for-the-badge&labelColor=05010F)
+![Rank](https://img.shields.io/badge/GLOBAL%20RANK%20//-2%20of%20Top%205%20Worldwide-00F0FF?style=for-the-badge&labelColor=05010F)
+![Author](https://img.shields.io/badge/AUTHOR%20//-2%20Published%20Books-7CFF00?style=for-the-badge&labelColor=05010F)
 
 </div>
 
 ---
 
-## Professional Summary
+## `>> SYSTEM BOOT :: PROFESSIONAL SUMMARY`
 
-Yaqoot Nawab is a Senior IT Project Manager, PMO Consultant, AI Architect, and System Designer with 9+ years of experience delivering complex technology programs across Healthcare, E-Commerce, FinTech, and Enterprise Digital Transformation. Career built across 9 companies, 25+ end to end projects, and cross functional teams spanning 5 countries: Germany, Japan, the United States, the United Kingdom, and China.
+```
+STATUS ........ ONLINE
+IDENTITY ...... YAQOOT NAWAB
+CLASS ......... SENIOR IT PROJECT MANAGER / AI ARCHITECT / SYSTEM DESIGNER
+EXPERIENCE .... 9+ YEARS
+COMPANIES ..... 9
+PROJECTS ...... 25+ END TO END DELIVERIES
+NETWORK ....... GERMANY | JAPAN | UNITED STATES | UNITED KINGDOM | CHINA
+```
 
-Career trajectory: Software Engineer to QA Engineer to QA Lead to IT/Product Project Manager to AI Architect, combining a Software Engineering foundation with a Psychology degree to bring a people first, systems aware approach to project leadership.
+Yaqoot Nawab is a Senior IT Project Manager, PMO Consultant, AI Architect, and System Designer with 9+ years of experience delivering complex technology programs across Healthcare, E Commerce, FinTech, and Enterprise Digital Transformation. Career built across 9 companies, 25+ end to end projects, and cross functional teams spanning 5 countries: Germany, Japan, the United States, the United Kingdom, and China.
 
-Author of two published books, Lead. Plan. Deliver. and Leadership, Challenges and Project Success Stories, and of an original AI research framework, YUIE (Yaqoot Unified Intelligence Equation).
+**Evolution path:** Software Engineer ▸ QA Engineer ▸ QA Lead ▸ IT / Product Project Manager ▸ AI Architect. A Software Engineering foundation fused with a Psychology degree creates a people first, systems aware approach to project leadership.
+
+Author of two published books, *Lead. Plan. Deliver.* and *Leadership, Challenges and Project Success Stories*, and of an original AI research framework, YUIE (Yaqoot Unified Intelligence Equation).
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+**[ TRANSMISSION 01 ]**
+
 "The best project managers are those who understand that their success is entirely dependent on the success of their team members. When you invest in people, the projects take care of themselves."
+
 Yaqoot Nawab
 
 </td>
 <td width="50%" valign="top">
 
+**[ TRANSMISSION 02 ]**
+
 "I believe the future of IT is not just faster delivery, it is smarter systems built by people who understand both the technology and the human being using it."
+
 Yaqoot Nawab
 
 </td>
@@ -39,7 +59,7 @@ Yaqoot Nawab
 
 ---
 
-## International Recognition
+## `>> VERIFIED CREDENTIAL :: INTERNATIONAL RECOGNITION`
 
 <div align="center">
 
@@ -47,15 +67,16 @@ Yaqoot Nawab
 <tr>
 <td align="center" width="100%">
 
-### Certificate of Excellence: Global Technology Leadership 2026
+### ◈ CERTIFICATE OF EXCELLENCE ◈
+### GLOBAL TECHNOLOGY LEADERSHIP 2026
 
-Award: Best AI IT Project Manager
-Ranking: 2nd Place, Top 5 World's Best Tech Lead Experts
-Issued by: Johsaf J. Jonson, CEO, Phantom Air Tech Pvt (PAT Pvt)
-Certificate No.: PAT 2026 TL 002
-Date of Issue: 08 July 2026
+**Award:** Best AI IT Project Manager
+**Ranking:** 2nd Place, Top 5 World's Best Tech Lead Experts
+**Issued by:** Johsaf J. Jonson, CEO, Phantom Air Tech Pvt (PAT Pvt)
+**Certificate No.:** PAT 2026 TL 002
+**Date of Issue:** 08 July 2026
 
-In recognition of outstanding leadership, technical excellence, and innovation in AI driven project management.
+*In recognition of outstanding leadership, technical excellence, and innovation in AI driven project management.*
 
 </td>
 </tr>
@@ -65,27 +86,27 @@ In recognition of outstanding leadership, technical excellence, and innovation i
 
 ---
 
-## Published Work
+## `>> DATA ARCHIVE :: PUBLISHED WORK`
 
-### Lead. Plan. Deliver.
-*From Revelation to Modern Project Management —> Faith, Knowledge, Science, Leadership, Systems, Technology and Human Experience*
+### ◤ VOLUME 01 ◢ Lead. Plan. Deliver.
+*From Revelation to Modern Project Management ▸ Faith, Knowledge, Science, Leadership, Systems, Technology and Human Experience*
 
 <div align="center">
 
-![Pages](https://img.shields.io/badge/PAGES-211-8B1E3F?style=flat-square&labelColor=1D3557)
-![Parts](https://img.shields.io/badge/PARTS-25-1D3557?style=flat-square&labelColor=1B5E20)
-![Chapters](https://img.shields.io/badge/CHAPTERS-94-1B5E20?style=flat-square&labelColor=8B1E3F)
-![Available](https://img.shields.io/badge/AVAILABLE%20ON-Amazon-1D3557?style=flat-square&labelColor=8B1E3F)
+![Pages](https://img.shields.io/badge/PAGES-211-FF2BD6?style=flat-square&labelColor=05010F)
+![Parts](https://img.shields.io/badge/PARTS-25-00F0FF?style=flat-square&labelColor=05010F)
+![Chapters](https://img.shields.io/badge/CHAPTERS-94-7CFF00?style=flat-square&labelColor=05010F)
+![Available](https://img.shields.io/badge/AVAILABLE%20ON-Amazon-FFB800?style=flat-square&labelColor=05010F)
 
 </div>
 
 A 211 page exploration of project management as an integrated discipline, drawing together revelation, science, history, and hands on practice into a single framework for responsible leadership in the modern world.
 
 <details>
-<summary><strong>Full Chapter Breakdown —> 25 Parts, 94 Chapters</strong></summary>
+<summary><strong>◈ EXPAND FULL CHAPTER INDEX ▸ 25 Parts, 94 Chapters</strong></summary>
 <br>
 
-**Part I: The First Project —> Human Civilization**
+**Part I: The First Project ▸ Human Civilization**
 - Chapter 1: Everything Begins With Purpose
 - Chapter 2: The Architecture of Responsibility
 - Chapter 3: Documentation as a Management System
@@ -206,7 +227,7 @@ A 211 page exploration of project management as an integrated discipline, drawin
 - Chapter 74: Performance Management
 - Chapter 75: Building Organizational Culture
 
-**Part XXIV: History as Management Laboratory —> Detailed Case Studies**
+**Part XXIV: History as Management Laboratory ▸ Detailed Case Studies**
 - Chapter 76: The Pyramids of Egypt
 - Chapter 77: The Roman Road Network
 - Chapter 78: The House of Wisdom
@@ -233,26 +254,26 @@ A 211 page exploration of project management as an integrated discipline, drawin
 
 ---
 
-### Leadership, Challenges and Project Success Stories
-2026 Expanded Edition
+### ◤ VOLUME 02 ◢ Leadership, Challenges and Project Success Stories
+**2026 Expanded Edition**
 
 <div align="center">
 
-![Pages](https://img.shields.io/badge/PAGES-150-8B1E3F?style=flat-square&labelColor=1D3557)
-![Chapters](https://img.shields.io/badge/CHAPTERS-37-1D3557?style=flat-square&labelColor=1B5E20)
-![Appendices](https://img.shields.io/badge/APPENDICES-3-1B5E20?style=flat-square&labelColor=8B1E3F)
+![Pages](https://img.shields.io/badge/PAGES-150-FF2BD6?style=flat-square&labelColor=05010F)
+![Chapters](https://img.shields.io/badge/CHAPTERS-37-00F0FF?style=flat-square&labelColor=05010F)
+![Appendices](https://img.shields.io/badge/APPENDICES-3-7CFF00?style=flat-square&labelColor=05010F)
 
 </div>
 
 A practical field guide distilling nine plus years of real world IT leadership: project recoveries, stakeholder conflicts, budget and deadline crises, paired with a hands on playbook of frameworks, templates, and an interview preparation appendix.
 
 <details>
-<summary><strong>Table of Contents</strong></summary>
+<summary><strong>◈ EXPAND TABLE OF CONTENTS</strong></summary>
 <br>
 
 | Part | Focus | Chapters |
 |:---:|---|---|
-| I | Project Success Stories | Ch. 1 to 5: Healthcare SaaS Recovery, E-Commerce Modernization, Mobile App Launch, FinTech Platform, Enterprise Digital Transformation |
+| I | Project Success Stories | Ch. 1 to 5: Healthcare SaaS Recovery, E Commerce Modernization, Mobile App Launch, FinTech Platform, Enterprise Digital Transformation |
 | II | Project Management Challenges | Ch. 6 to 13: Scope Creep, Missed Deadlines, Stakeholder Conflicts, Team Performance, Budget Constraints, Remote Teams, Client Escalations, Resource Shortages |
 | III | Leadership Framework | Ch. 14 to 20: Strategic Planning, Team Empowerment, Risk Management, Stakeholder Communication, Agile Leadership, Conflict Resolution, Continuous Improvement |
 | IV | Career Growth Journey | Ch. 21 to 24: Software Engineer to QA Engineer, Team Lead to Project Coordinator, IT PM to Senior PM, PMO Consultant |
@@ -263,49 +284,48 @@ A practical field guide distilling nine plus years of real world IT leadership: 
 
 </details>
 
-"Project management is not merely about timelines, budgets, and deliverables. At its core, project management is about people..."
-From the Introduction
+> *"Project management is not merely about timelines, budgets, and deliverables. At its core, project management is about people..."*
+> From the Introduction
 
-Book inquiries: ranayaqoot@gmail.com
+**Book inquiries:** ranayaqoot@gmail.com
 
 ---
 
-## Career Timeline
+## `>> TIMELINE.LOG :: CAREER TRAJECTORY`
 
 <div align="center">
 
-2015 to Present
-10+ Years in Technology
+**2015 ▸ PRESENT :: 10+ YEARS IN TECHNOLOGY**
 
-![Companies](https://img.shields.io/badge/COMPANIES-9-8B1E3F?style=flat-square&labelColor=1D3557)
-![Roles](https://img.shields.io/badge/ROLES-10-1D3557?style=flat-square&labelColor=1B5E20)
-![Projects](https://img.shields.io/badge/PROJECTS-25%2B-1B5E20?style=flat-square&labelColor=8B1E3F)
-![Countries](https://img.shields.io/badge/COUNTRIES-5-8B1E3F?style=flat-square&labelColor=1D3557)
+![Companies](https://img.shields.io/badge/COMPANIES-9-FF2BD6?style=flat-square&labelColor=05010F)
+![Roles](https://img.shields.io/badge/ROLES-10-00F0FF?style=flat-square&labelColor=05010F)
+![Projects](https://img.shields.io/badge/PROJECTS-25%2B-7CFF00?style=flat-square&labelColor=05010F)
+![Countries](https://img.shields.io/badge/COUNTRIES-5-FFB800?style=flat-square&labelColor=05010F)
 
 </div>
 
 | Stage | Progression |
 |---|---|
-| Early Career | Software Quality Assurance Engineer, multiple organisations |
-| Mid Career | Senior SQA Engineer to Senior QA Lead |
-| Growth | IT Project and Product Manager to Senior QA Strategist |
-| Current | Author, Freelance Senior PM / QA Strategist / AI Architect, Freelancer.com |
+| ◈ Early Career | Software Quality Assurance Engineer, multiple organisations |
+| ◈ Mid Career | Senior SQA Engineer to Senior QA Lead |
+| ◈ Growth | IT Project and Product Manager to Senior QA Strategist |
+| ◈ Current | Author, Freelance Senior PM / QA Strategist / AI Architect, Freelancer.com |
 
-International clients: Germany, Japan, USA, UK, China
-Industry: Information Technology and Services
-Based in: Lahore / Islamabad, Pakistan
+**International clients:** Germany, Japan, USA, UK, China
+**Industry:** Information Technology and Services
+**Base station:** Lahore / Islamabad, Pakistan
 
 ---
 
-## Education and Certifications
+## `>> KNOWLEDGE CORE :: EDUCATION AND CERTIFICATIONS`
 
 | Degree | Field | Institution | Status |
 |---|---|---|:---:|
-| Master's Degree | Computer Software Engineering | National College of Ireland | Completed |
-| Bachelor's Degree | Computer Software Engineering | Virtual University of Pakistan | Completed |
-| Bachelor's Degree | Psychology | N/A | Completed |
-| Diploma | Computer Software Engineering | National College of IT | Completed |
-| 3 Year IT Diploma | Information Technology | Pakistan Institute of Skills and Competencies (PISC) | Completed |
+| Master's Degree | Computer Software Engineering | National College of Ireland | ✅ Completed |
+| Bachelor's Degree | Computer Software Engineering | Virtual University of Pakistan | ✅ Completed |
+| Bachelor's Degree | Psychology | N/A | ✅ Completed |
+| Diploma | Computer Software Engineering | National College of IT | ✅ Completed |
+| 3 Year IT Diploma | Information Technology | Pakistan Institute of Skills and Competencies (PISC) | ✅ Completed |
 
 | Certification | Domain | Level |
 |---|---|:---:|
@@ -320,108 +340,117 @@ Based in: Lahore / Islamabad, Pakistan
 
 ---
 
-## Core Expertise
+## `>> SKILL MATRIX :: CORE EXPERTISE`
 
 <div align="center">
 
-Project Management and Leadership
-![IT PM](https://img.shields.io/badge/IT%20Project%20Management-Expert-8B1E3F?style=for-the-badge&labelColor=1D3557)
-![Agile](https://img.shields.io/badge/Agile-Expert-8B1E3F?style=for-the-badge&labelColor=1D3557)
-![Scrum](https://img.shields.io/badge/Scrum-Expert-8B1E3F?style=for-the-badge&labelColor=1D3557)
-![Stakeholder Mgmt](https://img.shields.io/badge/Stakeholder%20Management-Expert-8B1E3F?style=for-the-badge&labelColor=1D3557)
-![PMO](https://img.shields.io/badge/PMO%20Consulting-Advanced-8B1E3F?style=for-the-badge&labelColor=1D3557)
+**[ PROJECT MANAGEMENT AND LEADERSHIP ]**
 
-AI Architecture and System Design
-![AI Architecture](https://img.shields.io/badge/AI%20Architecture-Advanced-1D3557?style=for-the-badge&labelColor=1B5E20)
-![LLM](https://img.shields.io/badge/LLM%20Integration-Advanced-1D3557?style=for-the-badge&labelColor=1B5E20)
-![System Design](https://img.shields.io/badge/System%20Design-Advanced-1D3557?style=for-the-badge&labelColor=1B5E20)
+![IT PM](https://img.shields.io/badge/IT%20Project%20Management-Expert-FF2BD6?style=for-the-badge&labelColor=05010F)
+![Agile](https://img.shields.io/badge/Agile-Expert-FF2BD6?style=for-the-badge&labelColor=05010F)
+![Scrum](https://img.shields.io/badge/Scrum-Expert-FF2BD6?style=for-the-badge&labelColor=05010F)
+![Stakeholder Mgmt](https://img.shields.io/badge/Stakeholder%20Management-Expert-FF2BD6?style=for-the-badge&labelColor=05010F)
+![PMO](https://img.shields.io/badge/PMO%20Consulting-Advanced-FF2BD6?style=for-the-badge&labelColor=05010F)
 
-Quality Assurance
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Expert-1B5E20?style=for-the-badge&labelColor=8B1E3F)
-![Test Strategy](https://img.shields.io/badge/Test%20Strategy-Expert-1B5E20?style=for-the-badge&labelColor=8B1E3F)
-![API Testing](https://img.shields.io/badge/API%20Testing-Expert-1B5E20?style=for-the-badge&labelColor=8B1E3F)
+**[ AI ARCHITECTURE AND SYSTEM DESIGN ]**
 
-Industry Domains
-![Healthcare](https://img.shields.io/badge/Healthcare%20IT-Advanced-8B1E3F?style=for-the-badge&labelColor=1B5E20)
-![E-Commerce](https://img.shields.io/badge/E--Commerce-Advanced-1D3557?style=for-the-badge&labelColor=1B5E20)
-![FinTech](https://img.shields.io/badge/FinTech-Advanced-1B5E20?style=for-the-badge&labelColor=1D3557)
+![AI Architecture](https://img.shields.io/badge/AI%20Architecture-Advanced-00F0FF?style=for-the-badge&labelColor=05010F)
+![LLM](https://img.shields.io/badge/LLM%20Integration-Advanced-00F0FF?style=for-the-badge&labelColor=05010F)
+![System Design](https://img.shields.io/badge/System%20Design-Advanced-00F0FF?style=for-the-badge&labelColor=05010F)
+
+**[ QUALITY ASSURANCE ]**
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Expert-7CFF00?style=for-the-badge&labelColor=05010F)
+![Test Strategy](https://img.shields.io/badge/Test%20Strategy-Expert-7CFF00?style=for-the-badge&labelColor=05010F)
+![API Testing](https://img.shields.io/badge/API%20Testing-Expert-7CFF00?style=for-the-badge&labelColor=05010F)
+
+**[ INDUSTRY DOMAINS ]**
+
+![Healthcare](https://img.shields.io/badge/Healthcare%20IT-Advanced-FFB800?style=for-the-badge&labelColor=05010F)
+![E Commerce](https://img.shields.io/badge/E%20Commerce-Advanced-FFB800?style=for-the-badge&labelColor=05010F)
+![FinTech](https://img.shields.io/badge/FinTech-Advanced-FFB800?style=for-the-badge&labelColor=05010F)
 
 </div>
 
 ---
 
-## Technology Stack
+## `>> TECH STACK :: LOADED MODULES`
 
 <div align="center">
 
-Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-1D3557?style=flat-square&logo=javascript&logoColor=f7df1e)
-![Python](https://img.shields.io/badge/Python-1D3557?style=flat-square&logo=python&logoColor=3776ab)
-![Java](https://img.shields.io/badge/Java-1D3557?style=flat-square&logo=openjdk&logoColor=ea2d2e)
-![Kotlin](https://img.shields.io/badge/Kotlin-1D3557?style=flat-square&logo=kotlin&logoColor=7f52ff)
-![C++](https://img.shields.io/badge/C++-1D3557?style=flat-square&logo=c%2B%2B&logoColor=00599c)
-![C#](https://img.shields.io/badge/C%23-1D3557?style=flat-square&logo=csharp&logoColor=239120)
-![Dart](https://img.shields.io/badge/Dart-1D3557?style=flat-square&logo=dart&logoColor=0175c2)
+**[ LANGUAGES ]**
 
-Frameworks and Platforms
-![React](https://img.shields.io/badge/React-1D3557?style=flat-square&logo=react&logoColor=61dafb)
-![React Native](https://img.shields.io/badge/React%20Native-1D3557?style=flat-square&logo=react&logoColor=61dafb)
-![Flutter](https://img.shields.io/badge/Flutter-1D3557?style=flat-square&logo=flutter&logoColor=02569b)
-![Node.js](https://img.shields.io/badge/Node.js-1D3557?style=flat-square&logo=node.js&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-1D3557?style=flat-square&logo=mongodb&logoColor=47a248)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0221?style=flat-square&logo=javascript&logoColor=f7df1e)
+![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=3776ab)
+![Java](https://img.shields.io/badge/Java-0D0221?style=flat-square&logo=openjdk&logoColor=ea2d2e)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D0221?style=flat-square&logo=kotlin&logoColor=7f52ff)
+![C++](https://img.shields.io/badge/C++-0D0221?style=flat-square&logo=c%2B%2B&logoColor=00599c)
+![C#](https://img.shields.io/badge/C%23-0D0221?style=flat-square&logo=csharp&logoColor=239120)
+![Dart](https://img.shields.io/badge/Dart-0D0221?style=flat-square&logo=dart&logoColor=0175c2)
 
-Testing and QA Automation
-![Jest](https://img.shields.io/badge/Jest-1D3557?style=flat-square&logo=jest&logoColor=c21325)
-![Cypress](https://img.shields.io/badge/Cypress-1D3557?style=flat-square&logo=cypress&logoColor=17202c)
-![Playwright](https://img.shields.io/badge/Playwright-1D3557?style=flat-square&logo=playwright&logoColor=2ead33)
-![Selenium](https://img.shields.io/badge/Selenium-1D3557?style=flat-square&logo=selenium&logoColor=43b02a)
-![Postman](https://img.shields.io/badge/Postman-1D3557?style=flat-square&logo=postman&logoColor=ff6c37)
+**[ FRAMEWORKS AND PLATFORMS ]**
 
-Project and Collaboration Tools
-![Jira](https://img.shields.io/badge/Jira-1D3557?style=flat-square&logo=jira&logoColor=0052cc)
-![Confluence](https://img.shields.io/badge/Confluence-1D3557?style=flat-square&logo=confluence&logoColor=172b4d)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-1D3557?style=flat-square&logo=azure-devops&logoColor=0078d7)
-![Slack](https://img.shields.io/badge/Slack-1D3557?style=flat-square&logo=slack&logoColor=4a154b)
+![React](https://img.shields.io/badge/React-0D0221?style=flat-square&logo=react&logoColor=61dafb)
+![React Native](https://img.shields.io/badge/React%20Native-0D0221?style=flat-square&logo=react&logoColor=61dafb)
+![Flutter](https://img.shields.io/badge/Flutter-0D0221?style=flat-square&logo=flutter&logoColor=02569b)
+![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=flat-square&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D0221?style=flat-square&logo=mongodb&logoColor=47a248)
 
-AI and Automation
-![Claude AI](https://img.shields.io/badge/Claude%20AI-1D3557?style=flat-square&logo=anthropic&logoColor=d97757)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-1D3557?style=flat-square&logo=openai&logoColor=74aa9c)
-![n8n](https://img.shields.io/badge/n8n-1D3557?style=flat-square&logo=n8n&logoColor=ea4b71)
-![Zapier](https://img.shields.io/badge/Zapier-1D3557?style=flat-square&logo=zapier&logoColor=ff4a00)
+**[ TESTING AND QA AUTOMATION ]**
+
+![Jest](https://img.shields.io/badge/Jest-0D0221?style=flat-square&logo=jest&logoColor=c21325)
+![Cypress](https://img.shields.io/badge/Cypress-0D0221?style=flat-square&logo=cypress&logoColor=17202c)
+![Playwright](https://img.shields.io/badge/Playwright-0D0221?style=flat-square&logo=playwright&logoColor=2ead33)
+![Selenium](https://img.shields.io/badge/Selenium-0D0221?style=flat-square&logo=selenium&logoColor=43b02a)
+![Postman](https://img.shields.io/badge/Postman-0D0221?style=flat-square&logo=postman&logoColor=ff6c37)
+
+**[ PROJECT AND COLLABORATION TOOLS ]**
+
+![Jira](https://img.shields.io/badge/Jira-0D0221?style=flat-square&logo=jira&logoColor=0052cc)
+![Confluence](https://img.shields.io/badge/Confluence-0D0221?style=flat-square&logo=confluence&logoColor=172b4d)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0D0221?style=flat-square&logo=azure-devops&logoColor=0078d7)
+![Slack](https://img.shields.io/badge/Slack-0D0221?style=flat-square&logo=slack&logoColor=4a154b)
+
+**[ AI AND AUTOMATION ]**
+
+![Claude AI](https://img.shields.io/badge/Claude%20AI-0D0221?style=flat-square&logo=anthropic&logoColor=d97757)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0D0221?style=flat-square&logo=openai&logoColor=74aa9c)
+![n8n](https://img.shields.io/badge/n8n-0D0221?style=flat-square&logo=n8n&logoColor=ea4b71)
+![Zapier](https://img.shields.io/badge/Zapier-0D0221?style=flat-square&logo=zapier&logoColor=ff4a00)
 
 </div>
 
 ---
 
-## Independent Research: YUIE Framework
+## `>> CLASSIFIED LAB :: INDEPENDENT RESEARCH ▸ YUIE FRAMEWORK`
 
 <div align="center">
 
-Seven Formulas of Sentient AI: YUIE (Yaqoot Unified Intelligence Equation)
-Yaqoot Nawab, 2025
+**Seven Formulas of Sentient AI: YUIE (Yaqoot Unified Intelligence Equation)**
+*Yaqoot Nawab, 2025*
 
 | No. | Component | Description |
 |:---:|---|---|
 | 01 | SEFE | Sentient Emergence Field Equation |
 | 02 | ERT | Emotional Resonance Tensor |
-| 03 | SNMT | Self-Healing Neural Manifold Theorem |
+| 03 | SNMT | Self Healing Neural Manifold Theorem |
 | 04 | QCWF | Quantum Consciousness Wave Function |
 | 05 | EGFL | Empathic Gradient Descent with Feeling Loss |
-| 06 | RSI Omega f | Recursive Self-Improvement Omega Function |
+| 06 | RSI Ω f | Recursive Self Improvement Omega Function |
 | 07 | YUIE | Yaqoot Unified Intelligence Equation |
 
 A theoretical framework exploring machine consciousness and empathy, drawing on Tensor Calculus, Quantum Mechanics, Bayesian Statistics, and Information Theory.
 
-![Tensor Calculus](https://img.shields.io/badge/Tensor%20Calculus-8B1E3F?style=for-the-badge&labelColor=1D3557)
-![Quantum Mechanics](https://img.shields.io/badge/Quantum%20Mechanics-1D3557?style=for-the-badge&labelColor=1B5E20)
-![Bayesian Statistics](https://img.shields.io/badge/Bayesian%20Statistics-1B5E20?style=for-the-badge&labelColor=8B1E3F)
-![Information Theory](https://img.shields.io/badge/Information%20Theory-8B1E3F?style=for-the-badge&labelColor=1B5E20)
+![Tensor Calculus](https://img.shields.io/badge/Tensor%20Calculus-FF2BD6?style=for-the-badge&labelColor=05010F)
+![Quantum Mechanics](https://img.shields.io/badge/Quantum%20Mechanics-00F0FF?style=for-the-badge&labelColor=05010F)
+![Bayesian Statistics](https://img.shields.io/badge/Bayesian%20Statistics-7CFF00?style=for-the-badge&labelColor=05010F)
+![Information Theory](https://img.shields.io/badge/Information%20Theory-FFB800?style=for-the-badge&labelColor=05010F)
 
 </div>
 
 ---
 
-## Published Research and Articles
+## `>> PUBLICATION LEDGER :: RESEARCH AND ARTICLES`
 
 | Title | Category | Year |
 |---|---|:---:|
@@ -445,53 +474,55 @@ A theoretical framework exploring machine consciousness and empathy, drawing on 
 
 ---
 
-## GitHub Analytics
+## `>> TELEMETRY :: GITHUB ANALYTICS`
 
 <div align="center">
 
-![Yaqoot Nawab GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaqoot31&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=1D3557&icon_color=8B1E3F&text_color=333333&bg_color=ffffff)
+![Yaqoot Nawab GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaqoot31&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00F0FF&icon_color=FF2BD6&text_color=C9D1FF&bg_color=05010F)
 
-![Yaqoot Nawab Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaqoot31&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=ffffff&title_color=1D3557&text_color=333333)
+![Yaqoot Nawab Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaqoot31&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=05010F&title_color=00F0FF&text_color=C9D1FF)
 
-![Yaqoot Nawab Trophies](https://github-profile-trophy.vercel.app/?username=Yaqoot31&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Yaqoot Nawab Trophies](https://github-profile-trophy.vercel.app/?username=Yaqoot31&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
 ---
 
-## Current Focus (2025 / 2026)
+## `>> ACTIVE MISSIONS :: CURRENT FOCUS (2025 / 2026)`
 
-- Published: Lead. Plan. Deliver., 211 pages across 25 parts and 94 chapters, available now on Amazon
-- Published: Leadership, Challenges and Project Success Stories, 2026 Expanded Edition (150 pages, 37 chapters, 3 appendices)
-- Recognition: Best AI IT Project Manager, 2nd of Top 5 World's Best Tech Lead Experts, Phantom Air Tech Pvt, 08 July 2026
-- Research: YUIE framework implementation and validation; AI integration patterns for enterprise project management; agentic AI workflows for IT delivery automation
-- Building: Claude AI and Jira automation workflows; intelligent project management tooling; AI assisted QA test generation systems
-- Learning: Advanced LLM fine tuning and prompt engineering; multi agent system architecture; formal verification methods for AI safety
+```
+[PUBLISHED]  Lead. Plan. Deliver. ........ 211 pages | 25 parts | 94 chapters | on Amazon
+[PUBLISHED]  Leadership, Challenges and Project Success Stories ... 2026 Expanded Edition
+[HONOUR]     Best AI IT Project Manager ... 2nd of Top 5 World's Best Tech Lead Experts
+[RESEARCH]   YUIE validation | AI patterns for enterprise PM | agentic AI workflows for IT delivery
+[BUILDING]   Claude AI and Jira automation | intelligent PM tooling | AI assisted QA test generation
+[LEARNING]   LLM fine tuning | prompt engineering | multi agent architecture | formal verification for AI safety
+```
 
 ---
 
-## Connect
+## `>> OPEN CHANNELS :: CONNECT`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Yaqoot%20Nawab-1D3557?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaqoot-nawab-3a781117b)
-[![Medium](https://img.shields.io/badge/MEDIUM-yaqootnawab-8B1E3F?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yaqootnawab)
-[![GitHub](https://img.shields.io/badge/GITHUB-Yaqoot31-1B5E20?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaqoot31)
-[![Email](https://img.shields.io/badge/EMAIL-ranayaqoot%20gmail.com-1D3557?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranayaqoot@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-92%20312%206406045-1B5E20?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923126406045)
-[![Freelancer](https://img.shields.io/badge/FREELANCER-yaqootnawab-8B1E3F?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/yaqootnawab)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Yaqoot%20Nawab-00F0FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05010F)](https://linkedin.com/in/yaqoot-nawab-3a781117b)
+[![Medium](https://img.shields.io/badge/MEDIUM-yaqootnawab-FF2BD6?style=for-the-badge&logo=medium&logoColor=white&labelColor=05010F)](https://medium.com/@yaqootnawab)
+[![GitHub](https://img.shields.io/badge/GITHUB-Yaqoot31-7CFF00?style=for-the-badge&logo=github&logoColor=white&labelColor=05010F)](https://github.com/Yaqoot31)
+[![Email](https://img.shields.io/badge/EMAIL-ranayaqoot%40gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05010F)](mailto:ranayaqoot@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-92%20312%206406045-7CFF00?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=05010F)](https://wa.me/923126406045)
+[![Freelancer](https://img.shields.io/badge/FREELANCER-yaqootnawab-FF2BD6?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=05010F)](https://www.freelancer.com/u/yaqootnawab)
 
-Portfolio: [yaqoot15.vercel.app](https://yaqoot15.vercel.app) | [yaqoot31workpm.vercel.app](https://yaqoot31workpm.vercel.app) | [core-1-seven.vercel.app](https://core-1-seven.vercel.app)
+**Portfolio:** [yaqoot15.vercel.app](https://yaqoot15.vercel.app) | [yaqoot31workpm.vercel.app](https://yaqoot31workpm.vercel.app) | [core-1-seven.vercel.app](https://core-1-seven.vercel.app)
 
-Lahore / Islamabad, Pakistan
+📍 Lahore / Islamabad, Pakistan
 
 ---
 
-### Open To
+### `[ OPEN TO ]`
 
-IT Project Manager | AI Architect | Technical Program Manager | System Designer | PMO Consultant | Speaking Engagements
+**IT Project Manager | AI Architect | Technical Program Manager | System Designer | PMO Consultant | Speaking Engagements**
 
-Remote, Hybrid, or On-site in Pakistan. Open to relocation for the right opportunity.
+Remote, Hybrid, or On site in Pakistan. Open to relocation for the right opportunity.
 
 </div>
 
@@ -499,8 +530,10 @@ Remote, Hybrid, or On-site in Pakistan. Open to relocation for the right opportu
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Yaqoot31&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,50:1D3557,100:8B1E3F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7A00FF,100:05010F&height=110&section=footer" width="100%"/>
 
-Yaqoot Nawab, IT Project Manager | AI Architect | Author | System Designer | Pakistan
+**YAQOOT NAWAB // IT PROJECT MANAGER | AI ARCHITECT | AUTHOR | SYSTEM DESIGNER | PAKISTAN**
+
+`[ END OF TRANSMISSION ]`
 
 </div>
